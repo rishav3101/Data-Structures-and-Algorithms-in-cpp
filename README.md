@@ -1,3 +1,5 @@
+# **Hi** There <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="35px">
+
 # Data-Structures-and-Algorithms-in-cpp
 This repository is in development phase and will soon provide you with c++ code of various data structures and algorithms
 
